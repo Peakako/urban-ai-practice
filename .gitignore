@@ -1,0 +1,16 @@
+.venv/
+cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+add_metrics.py
+add_metrics_node.js
+fix_overpass.py
+check_nb.py
+count.js
+inspect_bn.py
+add_sec.ps1
+bn.txt
+metrics.md
+output/omsk_accessibility_drive_minutes.csv
