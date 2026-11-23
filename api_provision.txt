@@ -1,0 +1,2 @@
+blocks_df: pandas.core.frame.DataFrame, accessibility_matrix: pandas.core.frame.DataFrame, accessibility: int) -> pandas.core.frame.DataFrame
+None

@@ -1,0 +1,9 @@
+# Доп. зависимости приложения (устанавливать в .venv проекта)
+streamlit>=1.30
+streamlit-folium>=0.18
+folium>=0.15
+branca>=0.7
+plotly>=5.18
+
+# Базовые зависимости уже должны быть в .venv проекта:
+# pandas, numpy, geopandas, shapely, pyproj, blocksnet==1.0.0a9, pulp, loguru, tqdm

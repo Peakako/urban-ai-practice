@@ -1,0 +1,4628 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-20T00:49:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/1209579",
+      "properties": {
+        "@id": "relation/1209579",
+        "addr:housenumber": "50",
+        "addr:street": "Крыловская улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Гимназия №76",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4045265,
+          54.9242168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/1268470",
+      "properties": {
+        "@id": "relation/1268470",
+        "addr:city": "Омск",
+        "addr:housenumber": "96",
+        "addr:street": "улица Звездова",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №132",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.402247,
+          54.9864971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/1378719",
+      "properties": {
+        "@id": "relation/1378719",
+        "amenity": "school",
+        "building": "school",
+        "name": "Сибирская СОШ №1",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5794331,
+          55.0200563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/2283888",
+      "properties": {
+        "@id": "relation/2283888",
+        "addr:housenumber": "9Б",
+        "addr:street": "6-я Шинная улица",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Школа №141",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.453498,
+          54.9526247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/4076867",
+      "properties": {
+        "@id": "relation/4076867",
+        "amenity": "school",
+        "name": "Школа №24",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3006257,
+          54.982031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/5386124",
+      "properties": {
+        "@id": "relation/5386124",
+        "amenity": "school",
+        "name": "Гимназия №19",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3653582,
+          54.9865509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6128303",
+      "properties": {
+        "@id": "relation/6128303",
+        "amenity": "school",
+        "name": "Гимназия №115",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3831632,
+          54.9571156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6214771",
+      "properties": {
+        "@id": "relation/6214771",
+        "amenity": "school",
+        "name": "Кадетская школа-интернат №9",
+        "name:zh": "第9少年寄宿学校",
+        "ref": "9",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2942318,
+          55.0290728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6214772",
+      "properties": {
+        "@id": "relation/6214772",
+        "access": "private",
+        "addr:city": "Омск",
+        "addr:housenumber": "40",
+        "addr:street": "4-я Поселковая улица",
+        "amenity": "school",
+        "contact:email": "sch109@mail.ru",
+        "contact:phone": "+7 381 265-31-09",
+        "contact:vk": "https://vk.com/school_109_omsk",
+        "fee": "no",
+        "gender_segregated": "no",
+        "isced:level": "1;2;3",
+        "min_age": "6",
+        "name": "Школа №109",
+        "name:zh": "第109中学",
+        "official_name": "Бюджетное общеобразовательное учреждение г.Омска \"Средняя общеобразовательная школа № 109 с углубленным изучением отдельных предметов\"",
+        "official_status": "школа",
+        "opening_hours": "Mo-Fr 08:00-18:40; Sa 08:00-14:30; Su off; PH off; SH off",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "provided_for:boy": "yes",
+        "provided_for:girl": "yes",
+        "ref": "109",
+        "type": "multipolygon",
+        "website": "http://ou109.omsk.obr55.ru",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2929451,
+          55.0294699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6259846",
+      "properties": {
+        "@id": "relation/6259846",
+        "amenity": "school",
+        "name": "Школа №72",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4055654,
+          54.9712022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6275463",
+      "properties": {
+        "@id": "relation/6275463",
+        "amenity": "school",
+        "name": "Школа №153",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2747178,
+          55.0398304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6389441",
+      "properties": {
+        "@id": "relation/6389441",
+        "amenity": "school",
+        "name": "Школа №107",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4534747,
+          54.9150316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/6701380",
+      "properties": {
+        "@id": "relation/6701380",
+        "addr:postcode": "644112",
+        "amenity": "school",
+        "contact:vk": "club18248936",
+        "email": "school7@bou.omskportal.ru",
+        "name": "Школа №7",
+        "name:en": "СОШ №7",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 23 07 61",
+        "type": "multipolygon",
+        "website": "http://ou7.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.305514,
+          54.9922653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7152829",
+      "properties": {
+        "@id": "relation/7152829",
+        "amenity": "school",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3368995,
+          54.9439565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7272599",
+      "properties": {
+        "@id": "relation/7272599",
+        "amenity": "school",
+        "name": "Школа №30",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4192992,
+          55.0199066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7523682",
+      "properties": {
+        "@id": "relation/7523682",
+        "addr:housenumber": "7",
+        "addr:postcode": "644052",
+        "addr:street": "улица Багратиона",
+        "amenity": "school",
+        "contact:vk": "club202655287",
+        "email": "school16@bou.omskportal.ru",
+        "name": "Школа №16",
+        "name:ru": "Школа №16",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-13:30",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 381 261-81-01",
+        "short_name": "СОШ №16",
+        "type": "multipolygon",
+        "website": "http://www.школа16-омск.рф",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4124997,
+          55.0236215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/7576232",
+      "properties": {
+        "@id": "relation/7576232",
+        "amenity": "school",
+        "name": "Гимназия №62",
+        "ref": "62",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3946495,
+          54.9675069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/9124206",
+      "properties": {
+        "@id": "relation/9124206",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №55",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3236578,
+          54.9337581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/11787023",
+      "properties": {
+        "@id": "relation/11787023",
+        "amenity": "school",
+        "name": "Школа №98",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2553869,
+          55.0328998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15110117",
+      "properties": {
+        "@id": "relation/15110117",
+        "amenity": "school",
+        "name": "Школа №151",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3054298,
+          54.9794262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/15110118",
+      "properties": {
+        "@id": "relation/15110118",
+        "amenity": "school",
+        "name": "Гимназия №140",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3072244,
+          54.9801166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/19803676",
+      "properties": {
+        "@id": "relation/19803676",
+        "addr:city": "Омск",
+        "addr:country": "RU",
+        "addr:district": "Центральный административный округ",
+        "alt_name": "БОУ г. Омска \"Средняя общеобразовательная школа №91\"",
+        "amenity": "school",
+        "education": "school",
+        "name": "Средняя школа №91",
+        "official_name": "Бюджетное общеобразовательное учреждение города Омска \"Средняя общеобразовательная школа №91\"",
+        "school:gender": "mixed",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3804322,
+          55.0231921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35218103",
+      "properties": {
+        "@id": "way/35218103",
+        "addr:housenumber": "7А",
+        "addr:street": "Ангарская улица",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "name": "Лицей №92",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3918581,
+          54.950798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35218732",
+      "properties": {
+        "@id": "way/35218732",
+        "addr:housenumber": "5",
+        "addr:street": "3-я Транспортная улица",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "Гимназия №88",
+        "roof:shape": "hipped",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4079796,
+          54.95751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35218777",
+      "properties": {
+        "@id": "way/35218777",
+        "addr:housenumber": "2",
+        "addr:street": "3-я Транспортная улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №40",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4034012,
+          54.9592052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35900778",
+      "properties": {
+        "@id": "way/35900778",
+        "addr:housenumber": "11",
+        "addr:street": "6-я Станционная улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №110",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4565967,
+          54.9231975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38348355",
+      "properties": {
+        "@id": "way/38348355",
+        "addr:housenumber": "13",
+        "addr:street": "Усадебная улица",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №71",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4415139,
+          54.9169098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/38358190",
+      "properties": {
+        "@id": "way/38358190",
+        "addr:housenumber": "20/1",
+        "addr:street": "улица Молодова",
+        "amenity": "school",
+        "building": "yes",
+        "name": "ДЮСШ №30",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4467221,
+          54.9064421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/42915209",
+      "properties": {
+        "@id": "way/42915209",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-11-12",
+        "education": "school",
+        "name": "Лицей №74",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2893633,
+          55.0034679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46983304",
+      "properties": {
+        "@id": "way/46983304",
+        "addr:housenumber": "89А",
+        "addr:street": "17-я Рабочая улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа интернат №15",
+        "opening_hours": "24/7",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 36 01 61;+7 3012 54 60 02",
+        "website": "http://ouint15.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4329946,
+          54.9433487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/46983582",
+      "properties": {
+        "@id": "way/46983582",
+        "addr:housenumber": "89",
+        "addr:street": "17-я Рабочая улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №89",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4342688,
+          54.9433261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49831271",
+      "properties": {
+        "@id": "way/49831271",
+        "addr:housenumber": "18А",
+        "addr:street": "улица Красный Путь",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Альфа и Омега (№157)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3597189,
+          54.9963325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50333495",
+      "properties": {
+        "@id": "way/50333495",
+        "addr:housenumber": "15",
+        "addr:street": "Садовая улица",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Школа-интернат №17",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2953007,
+          54.9750803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/50624966",
+      "properties": {
+        "@id": "way/50624966",
+        "addr:housenumber": "3",
+        "addr:street": "улица 20-го Партсъезда",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "name": "Школа №13",
+        "official_name": "Открытая сменная общеобразовательная школа №13",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:30-16:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "phone": "+7 3812 67 23 61",
+        "roof:shape": "hipped",
+        "website": "http://ouos13.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2861855,
+          55.0330778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/53730804",
+      "properties": {
+        "@id": "way/53730804",
+        "addr:housenumber": "400/1",
+        "addr:street": "улица Василия Маргелова",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №148",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.486005,
+          54.8870646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/54931506",
+      "properties": {
+        "@id": "way/54931506",
+        "addr:housenumber": "57А",
+        "addr:street": "Магистральная улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Средняя общеобразовательная школа №123 с углубленным изучением отдельных предметов им. О.И. Охрименко",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2653059,
+          55.0329938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55417943",
+      "properties": {
+        "@id": "way/55417943",
+        "addr:housenumber": "22",
+        "addr:street": "Магистральная улица",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №86",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2828095,
+          55.0373812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55492916",
+      "properties": {
+        "@id": "way/55492916",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №61",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2951164,
+          55.0380773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55563430",
+      "properties": {
+        "@id": "way/55563430",
+        "addr:housenumber": "86",
+        "addr:street": "улица Красный Путь",
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2024-07-06",
+        "name": "Школа Мавриной",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3403055,
+          55.0112682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55608514",
+      "properties": {
+        "@id": "way/55608514",
+        "addr:housenumber": "17Г",
+        "addr:street": "Волочаевская улица",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа 77",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3518055,
+          54.9962884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55950989",
+      "properties": {
+        "@id": "way/55950989",
+        "addr:housenumber": "3 к2",
+        "addr:postcode": "644012",
+        "addr:street": "улица СибНИИСХоз",
+        "amenity": "school",
+        "building": "yes",
+        "contact:vk": "club128810551",
+        "email": "school9@bou.omskportal.ru",
+        "name": "Гимназия №9",
+        "opening_hours": "Mo-Sa 07:30-19:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 77 58 90;+7 3812 77 63 81;+7 3812 77 55 38",
+        "website": "http://ou9.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3345231,
+          55.0338969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/55962384",
+      "properties": {
+        "@id": "way/55962384",
+        "addr:housenumber": "37",
+        "addr:postcode": "644065",
+        "addr:street": "улица 19-го Партсъезда",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа 133",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2681808,
+          55.0436438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56009737",
+      "properties": {
+        "@id": "way/56009737",
+        "addr:housenumber": "11Б",
+        "addr:postcode": "644088",
+        "addr:street": "улица Энтузиастов",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №63",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2900313,
+          55.0451875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/56009769",
+      "properties": {
+        "@id": "way/56009769",
+        "addr:housenumber": "25Б",
+        "addr:postcode": "644088",
+        "addr:street": "улица Энтузиастов",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа № 64",
+        "operator:type": "public",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2842498,
+          55.045082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/58217746",
+      "properties": {
+        "@id": "way/58217746",
+        "addr:housenumber": "2",
+        "addr:street": "улица Лобкова",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №162",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3824637,
+          54.9400134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/60446368",
+      "properties": {
+        "@id": "way/60446368",
+        "addr:housenumber": "79",
+        "addr:street": "Космический проспект",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "check_date": "2024-08-22",
+        "contact:vk": "club206900103",
+        "name": "СОШ №134",
+        "opening_hours": "Mo-Fr 08:15-17:00",
+        "phone": "+7 3812 53-69-92;+7 3812 53 72 21",
+        "roof:levels": "3",
+        "roof:shape": "flat",
+        "website": "https://omsk-mou134.nubex.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4556077,
+          54.9753583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61049056",
+      "properties": {
+        "@id": "way/61049056",
+        "addr:housenumber": "39",
+        "addr:postcode": "644007",
+        "addr:street": "1-я Северная улица",
+        "amenity": "school",
+        "building": "yes",
+        "email": "school6@bou.omskportal.ru",
+        "name": "Школа №6",
+        "name:en": "СОШ №6",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 23 07 61",
+        "website": "https://scholl6omsk.ucoz.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3589884,
+          55.0047493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/61352698",
+      "properties": {
+        "@id": "way/61352698",
+        "addr:housenumber": "47",
+        "addr:street": "Камерный переулок",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Школа №58",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.45876,
+          54.9540505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/62104556",
+      "properties": {
+        "@id": "way/62104556",
+        "addr:housenumber": "223",
+        "addr:street": "улица Масленникова",
+        "amenity": "school",
+        "building": "yes",
+        "name": "филиал шк. 56",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4305951,
+          54.9762538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/63530443",
+      "properties": {
+        "@id": "way/63530443",
+        "addr:housenumber": "65",
+        "addr:street": "улица Седова",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №105",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.321805,
+          54.9473845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/63939993",
+      "properties": {
+        "@id": "way/63939993",
+        "addr:housenumber": "14",
+        "addr:street": "улица 20 лет Октября",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №67",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3287798,
+          54.9418962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/64888325",
+      "properties": {
+        "@id": "way/64888325",
+        "addr:housenumber": "4",
+        "addr:street": "Мельничная улица",
+        "amenity": "school",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3238224,
+          54.9334336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/66229061",
+      "properties": {
+        "@id": "way/66229061",
+        "addr:housenumber": "29А",
+        "addr:street": "улица Талалихина",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа №119",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.306973,
+          54.9170737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/67625068",
+      "properties": {
+        "@id": "way/67625068",
+        "addr:housenumber": "50",
+        "addr:street": "улица Поморцева",
+        "amenity": "school",
+        "building": "school",
+        "source": "Yahoo",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3804549,
+          54.8336252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71074980",
+      "properties": {
+        "@id": "way/71074980",
+        "addr:housenumber": "3",
+        "addr:street": "5-я Кордная улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №27 (филиал 2)",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4461042,
+          54.9597481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/71373063",
+      "properties": {
+        "@id": "way/71373063",
+        "addr:housenumber": "25А",
+        "addr:postcode": "644018",
+        "addr:street": "3-я Кордная улица",
+        "amenity": "school",
+        "building": "yes",
+        "contact:vk": "school27omsk",
+        "email": "school27@bou.omskportal.ru",
+        "name": "Школа №27",
+        "name:en": "СОШ №27",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 58 25 72",
+        "website": "http://omsk-shkola27.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4517216,
+          54.9615424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87367818",
+      "properties": {
+        "@id": "way/87367818",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Горячеключевская средняя общеобразовательная школа",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1524862,
+          55.0316008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/87521764",
+      "properties": {
+        "@id": "way/87521764",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Новотроицкая средняя общеобразовательная школа",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1584218,
+          55.2665619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/94055054",
+      "properties": {
+        "@id": "way/94055054",
+        "addr:housenumber": "15",
+        "addr:street": "Ноябрьская улица",
+        "amenity": "school",
+        "building": "yes",
+        "grades": "1-11",
+        "name": "Школа №70",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5513778,
+          54.9629004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/94716941",
+      "properties": {
+        "@id": "way/94716941",
+        "addr:housenumber": "3",
+        "addr:street": "улица 60 лет Победы",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5459049,
+          54.9228427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/94717152",
+      "properties": {
+        "@id": "way/94717152",
+        "addr:city": "Омск",
+        "addr:housenumber": "69",
+        "addr:postcode": "644120",
+        "addr:street": "3-я Станционная улица",
+        "amenity": "school",
+        "building": "yes",
+        "grades": "1-11",
+        "name": "Школа №104",
+        "website": "https://sh104-omsk-r52.gosweb.gosuslugi.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4909127,
+          54.9287396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95400345",
+      "properties": {
+        "@id": "way/95400345",
+        "amenity": "school",
+        "building": "school",
+        "name": "Сибирская СОШ №2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5782236,
+          55.0203369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/95778552",
+      "properties": {
+        "@id": "way/95778552",
+        "amenity": "school",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6248514,
+          55.0421228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/96534495",
+      "properties": {
+        "@id": "way/96534495",
+        "addr:housenumber": "18",
+        "addr:street": "Берёзовая улица",
+        "amenity": "school",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2204095,
+          55.153851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102141431",
+      "properties": {
+        "@id": "way/102141431",
+        "addr:city": "Омск",
+        "addr:housenumber": "101 к1",
+        "addr:place": "микрорайон Входной",
+        "addr:postcode": "644903",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Начальная школа №161",
+        "name:ru": "Начальная школа №161",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1708112,
+          54.9529712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/102141664",
+      "properties": {
+        "@id": "way/102141664",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №161",
+        "name:ru": "Школа №161",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1736024,
+          54.953057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103386460",
+      "properties": {
+        "@id": "way/103386460",
+        "addr:housenumber": "47",
+        "addr:postcode": "644065",
+        "addr:street": "улица Энтузиастов",
+        "amenity": "school",
+        "building": "yes",
+        "contact:vk": "school_12_omsk",
+        "name": "Гимназия №12",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+7 3812 64 51 85",
+        "website": "http://ou12.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2720321,
+          55.0445665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103563257",
+      "properties": {
+        "@id": "way/103563257",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №116",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3873905,
+          55.0055121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/103689811",
+      "properties": {
+        "@id": "way/103689811",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-11-12",
+        "name": "Гимназия №139",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2923868,
+          55.0023333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/114519790",
+      "properties": {
+        "@id": "way/114519790",
+        "addr:housenumber": "8",
+        "addr:street": "улица 40 лет Ракетных Войск",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Школа № 131",
+        "opening_hours": "Mo-Fr 08:30-14:15",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5042941,
+          55.0301219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/134110579",
+      "properties": {
+        "@id": "way/134110579",
+        "addr:housenumber": "5",
+        "addr:street": "улица Победы",
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2026-05-17",
+        "name": "Гимназия №19 Центр раннего развития",
+        "opening_hours": "Mo-Fr 09:00-18:15",
+        "phone": "+7 3812 24 29 98",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3675508,
+          54.9836155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/136383136",
+      "properties": {
+        "@id": "way/136383136",
+        "addr:city": "Троицкое",
+        "addr:housenumber": "62А",
+        "addr:street": "улица Олега Кошевого",
+        "amenity": "school",
+        "building": "yes",
+        "name": "Троицкая средняя общеобразовательная школа",
+        "source": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3050851,
+          54.8643833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/138232997",
+      "properties": {
+        "@id": "way/138232997",
+        "addr:housenumber": "20Б",
+        "addr:place": "рабочий посёлок Новостройка",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "3",
+        "name": "Школа №50",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2747299,
+          54.9286124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/140838307",
+      "properties": {
+        "@id": "way/140838307",
+        "amenity": "school",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1284748,
+          55.1164804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/142340320",
+      "properties": {
+        "@id": "way/142340320",
+        "addr:housenumber": "51",
+        "addr:street": "Центральная улица",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "2",
+        "source:addr": "ЕГРН",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5541511,
+          55.3717284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149348950",
+      "properties": {
+        "@id": "way/149348950",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-11-12",
+        "education": "school",
+        "name": "Лицей №149",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2864609,
+          55.0013871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149523006",
+      "properties": {
+        "@id": "way/149523006",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Лицей №54",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3216799,
+          54.9845565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/149579237",
+      "properties": {
+        "@id": "way/149579237",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия № 150",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2813568,
+          54.9949972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/150599977",
+      "properties": {
+        "@id": "way/150599977",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №42",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3183016,
+          54.9899212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152021859",
+      "properties": {
+        "@id": "way/152021859",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №33",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3009294,
+          54.9924829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/152420755",
+      "properties": {
+        "@id": "way/152420755",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №122",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.42209,
+          54.9259674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/153536235",
+      "properties": {
+        "@id": "way/153536235",
+        "amenity": "school",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2256192,
+          54.8938603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/155112003",
+      "properties": {
+        "@id": "way/155112003",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-06-22",
+        "name": "Школа №135",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3139403,
+          54.9881577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/166196091",
+      "properties": {
+        "@id": "way/166196091",
+        "addr:housenumber": "42",
+        "addr:street": "улица Красный Путь",
+        "amenity": "school",
+        "building": "yes",
+        "check_date": "2024-08-06",
+        "name": "Детская школа искусств #2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3549084,
+          54.9994387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/167423667",
+      "properties": {
+        "@id": "way/167423667",
+        "addr:housenumber": "4",
+        "addr:street": "улица 40 лет Победы",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "3",
+        "name": "Школа №124",
+        "source:addr": "ЕГРН",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2320148,
+          55.366213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/181383884",
+      "properties": {
+        "@id": "way/181383884",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №83",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4759094,
+          54.9262964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/182395322",
+      "properties": {
+        "@id": "way/182395322",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №32",
+        "ref": "32",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2454934,
+          55.0302484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/187755114",
+      "properties": {
+        "@id": "way/187755114",
+        "amenity": "school",
+        "building": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1929624,
+          55.1615712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/219504428",
+      "properties": {
+        "@id": "way/219504428",
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "name": "Школа №144",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2468097,
+          54.9973174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/222635910",
+      "properties": {
+        "@id": "way/222635910",
+        "addr:postcode": "644029",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №117",
+        "name:zh": "第117高中",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2808165,
+          55.0270622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/223226390",
+      "properties": {
+        "@id": "way/223226390",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Лицей №64",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.374409,
+          54.978853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/240217433",
+      "properties": {
+        "@id": "way/240217433",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Лицей №145",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3328773,
+          54.952857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/257906721",
+      "properties": {
+        "@id": "way/257906721",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа-интернат №20",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3574986,
+          54.9078658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/262678988",
+      "properties": {
+        "@id": "way/262678988",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-04-24",
+        "name": "Лицей №137",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3124162,
+          54.9803864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/263590820",
+      "properties": {
+        "@id": "way/263590820",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Санаторная школа-интернат №11",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.353392,
+          54.9142129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/274209756",
+      "properties": {
+        "@id": "way/274209756",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа № 90",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.426546,
+          54.9925241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280176888",
+      "properties": {
+        "@id": "way/280176888",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Лицей №166",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2697117,
+          55.0274875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/280176889",
+      "properties": {
+        "@id": "way/280176889",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №94",
+        "name:zh": "第94中学",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2719701,
+          55.02713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/283543769",
+      "properties": {
+        "@id": "way/283543769",
+        "addr:housenumber": "20",
+        "addr:postcode": "644083",
+        "addr:street": "улица Белозёрова",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "school143_omsk",
+        "name": "Лицей №143",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "phone": "+7 3812 52 25 00",
+        "website": "http://ou143.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3074065,
+          55.0496741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/288278483",
+      "properties": {
+        "@id": "way/288278483",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №113",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3739996,
+          55.0190014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289333172",
+      "properties": {
+        "@id": "way/289333172",
+        "addr:housenumber": "131",
+        "addr:postcode": "644018",
+        "addr:street": "улица Лермонтова",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "vlastelinmelkabou1",
+        "email": "mou001.omsk@rambler.ru",
+        "name": "Школа №1",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 36 75 41;+7 3812 36 75 42",
+        "website": "http://ou1.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4153802,
+          54.9842864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289674702",
+      "properties": {
+        "@id": "way/289674702",
+        "addr:housenumber": "1",
+        "addr:postcode": "644060",
+        "addr:street": "улица Шота Руставели",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "schoolrepublic3",
+        "email": "sch003@mail.ru",
+        "name": "Школа №3",
+        "opening_hours": "Mo-Fr 08:00-18:40; Sa 08:00-13:30",
+        "phone": "+7 3812 43 76 61",
+        "website": "https://sch003.gosuslugi.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4074792,
+          54.9259948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/289844325",
+      "properties": {
+        "@id": "way/289844325",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №125",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3822667,
+          54.9521758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290491382",
+      "properties": {
+        "@id": "way/290491382",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №152",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3865287,
+          55.0005512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/290492639",
+      "properties": {
+        "@id": "way/290492639",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №75",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3792855,
+          54.9452423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/294799739",
+      "properties": {
+        "@id": "way/294799739",
+        "addr:housenumber": "5",
+        "addr:street": "Лесной проезд",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school26@bou.omskportal.ru",
+        "name": "Гимназия №26",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 08:30-14:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 74 38 45",
+        "website": "http://gim26.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2578307,
+          54.9913119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295181945",
+      "properties": {
+        "@id": "way/295181945",
+        "addr:postcode": "644009",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №130",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4275304,
+          54.980181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/295323270",
+      "properties": {
+        "@id": "way/295323270",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school096@yandex.ru",
+        "name": "Школа №96",
+        "website": "http://ou96.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3032615,
+          55.0503297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298965965",
+      "properties": {
+        "@id": "way/298965965",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №147",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4015504,
+          54.9405115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/298965966",
+      "properties": {
+        "@id": "way/298965966",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №87",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4021723,
+          54.9418433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/301187368",
+      "properties": {
+        "@id": "way/301187368",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №142",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4199269,
+          54.9420411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/302700744",
+      "properties": {
+        "@id": "way/302700744",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа-интернат №3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2813395,
+          55.0412611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/303414460",
+      "properties": {
+        "@id": "way/303414460",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №39",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4325243,
+          54.9509427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304040164",
+      "properties": {
+        "@id": "way/304040164",
+        "addr:housenumber": "43А",
+        "addr:postcode": "644018",
+        "addr:street": "5-я Кордная улица",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "my-scool2@mail.ru",
+        "name": "Школа №2",
+        "opening_hours": "Mo-Fr 08:30-13:00, 14:00-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 90 27 67",
+        "website": "http://ou2.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4646567,
+          54.9598232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304041315",
+      "properties": {
+        "@id": "way/304041315",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №78",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3761856,
+          54.931584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304767797",
+      "properties": {
+        "@id": "way/304767797",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №73",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4723159,
+          54.980367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304767798",
+      "properties": {
+        "@id": "way/304767798",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №73",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.470994,
+          54.9795027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/304772700",
+      "properties": {
+        "@id": "way/304772700",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №59",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.413634,
+          54.9356679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/310045794",
+      "properties": {
+        "@id": "way/310045794",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа № 99",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4507266,
+          54.9055104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/320333361",
+      "properties": {
+        "@id": "way/320333361",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №65",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3967835,
+          54.9908152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321758912",
+      "properties": {
+        "@id": "way/321758912",
+        "addr:housenumber": "7Б",
+        "addr:street": "улица 50-летия ВЛКСМ",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №41",
+        "phone": "+7 3812 57 04 07;+7 3812 57 01 52",
+        "website": "http://ou41.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4750812,
+          54.9780647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/321782011",
+      "properties": {
+        "@id": "way/321782011",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school23@bou.omskportal.ru",
+        "name": "Школа №23",
+        "name:ru": "Школа №23",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 381 261-74-20",
+        "short_name": "СОШ №23",
+        "website": "http://ou23.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4032592,
+          55.0223712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328728109",
+      "properties": {
+        "@id": "way/328728109",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Бизнес и информационные технологии",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4392912,
+          54.9329405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/328730025",
+      "properties": {
+        "@id": "way/328730025",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №138",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4356638,
+          54.9378569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/330001308",
+      "properties": {
+        "@id": "way/330001308",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №163",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.428837,
+          54.9374615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/337138963",
+      "properties": {
+        "@id": "way/337138963",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №31",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4792424,
+          54.98268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342131741",
+      "properties": {
+        "@id": "way/342131741",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №79",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4200834,
+          54.9209205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/342131742",
+      "properties": {
+        "@id": "way/342131742",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа-интернат №16",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4131174,
+          54.9183436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/344996471",
+      "properties": {
+        "@id": "way/344996471",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №146",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.401706,
+          54.9894475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/360219370",
+      "properties": {
+        "@id": "way/360219370",
+        "addr:housenumber": "34Б",
+        "addr:postcode": "644106",
+        "addr:street": "Волгоградская улица",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school21@bou.omskportal.ru",
+        "name": "Школа №21",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 74 39 77",
+        "website": "http://ou21.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2508739,
+          54.9919114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/363847415",
+      "properties": {
+        "@id": "way/363847415",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №43",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4200855,
+          54.9495216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364082644",
+      "properties": {
+        "@id": "way/364082644",
+        "addr:housenumber": "17",
+        "addr:postcode": "644086",
+        "addr:street": "21-я Амурская улица",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school15@bou.omskportal.ru",
+        "name": "Школа №15",
+        "opening_hours": "Mo-Sa 08:00-19:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 61 03 06;+7 3812 61 1941",
+        "website": "http://ou15.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4151763,
+          55.0305847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/364082681",
+      "properties": {
+        "@id": "way/364082681",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "shcool_29",
+        "email": "school29@bou.omskportal.ru",
+        "name": "Лицей №29",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 61 18 78;+7 3812 61 18 78",
+        "website": "https://bou29omsk.ucoz.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4183402,
+          55.0297917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/365451813",
+      "properties": {
+        "@id": "way/365451813",
+        "addr:housenumber": "12",
+        "addr:street": "2-я Ленинградская улица",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "shkola12omsk",
+        "name": "Адаптивная Школа №12",
+        "phone": "+7 3812 42 65 97",
+        "website": "https://ash12-omsk.gosuslugi.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4806212,
+          54.9237474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/366173625",
+      "properties": {
+        "@id": "way/366173625",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2025-03-16",
+        "name": "Школа №18",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4026409,
+          54.9641392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/375502777",
+      "properties": {
+        "@id": "way/375502777",
+        "amenity": "school",
+        "check_date": "2024-05-11",
+        "name": "Школа №53",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3205314,
+          54.9287017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/388202072",
+      "properties": {
+        "@id": "way/388202072",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №127",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4034068,
+          54.8491718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398105872",
+      "properties": {
+        "@id": "way/398105872",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "ДЮСШОР №28",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4423762,
+          54.9675633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398284761",
+      "properties": {
+        "@id": "way/398284761",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №37",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3853227,
+          54.9754663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398285835",
+      "properties": {
+        "@id": "way/398285835",
+        "addr:housenumber": "2",
+        "addr:postcode": "644092",
+        "addr:street": "улица Путилова",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:email": "school11@bou.omskportal.ru",
+        "contact:phone": "+7 3812 73 03 53",
+        "contact:website": "http://ou11.omsk.obr55.ru",
+        "name": "Школа №11",
+        "name:ru": "Школа №11",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "short_name": "СОШ №11",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2769324,
+          54.9919381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398474495",
+      "properties": {
+        "@id": "way/398474495",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №103",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5132508,
+          55.0645358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400099695",
+      "properties": {
+        "@id": "way/400099695",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №101",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3696933,
+          54.9301522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/412378878",
+      "properties": {
+        "@id": "way/412378878",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №159",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.426125,
+          55.021595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/419156108",
+      "properties": {
+        "@id": "way/419156108",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №51",
+        "ref": "51",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3130795,
+          55.0538617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420204931",
+      "properties": {
+        "@id": "way/420204931",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №46",
+        "ref": "46",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3122259,
+          55.0525017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/421766234",
+      "properties": {
+        "@id": "way/421766234",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа № 38",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4054715,
+          54.981263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422129183",
+      "properties": {
+        "@id": "way/422129183",
+        "amenity": "school",
+        "barrier": "fence",
+        "isced:level": "0-1",
+        "name": "Гимназия №84",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2789254,
+          55.0319507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422129184",
+      "properties": {
+        "@id": "way/422129184",
+        "amenity": "school",
+        "barrier": "fence",
+        "isced:level": "1-3",
+        "name": "Гимназия №84",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2761957,
+          55.0319084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/423540151",
+      "properties": {
+        "@id": "way/423540151",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Вечерняя школа №33",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.466042,
+          55.0083224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/423794596",
+      "properties": {
+        "@id": "way/423794596",
+        "addr:housenumber": "7А",
+        "addr:postcode": "644076",
+        "addr:street": "Олимпийская улица",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "club154084216",
+        "name": "Лицей №25",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "phone": "+7 3812 57 55 50;+7 3812 57 08 01",
+        "website": "http://ou25.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4750456,
+          54.9755429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/429270199",
+      "properties": {
+        "@id": "way/429270199",
+        "addr:housenumber": "13",
+        "addr:street": "Космический проспект",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №118",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "phone": "+7 3812 53 87 14;+7 3812 53 61 49",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4449029,
+          54.970554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/430308114",
+      "properties": {
+        "@id": "way/430308114",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №48",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4288068,
+          54.9904218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/430494133",
+      "properties": {
+        "@id": "way/430494133",
+        "addr:postcode": "644053",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №112",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2601198,
+          55.0385341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/436368142",
+      "properties": {
+        "@id": "way/436368142",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-06-05",
+        "name": "Гимназия №85",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3706917,
+          54.9949645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/439842485",
+      "properties": {
+        "@id": "way/439842485",
+        "addr:postcode": "644114",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "club18248936",
+        "email": "school5@bou.omskportal.ru",
+        "name": "Школа №5",
+        "name:en": "СОШ №5",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 29 46 79",
+        "website": "http://ou5.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4158629,
+          55.0659785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444377427",
+      "properties": {
+        "@id": "way/444377427",
+        "amenity": "school",
+        "barrier": "fence",
+        "contact:vk": "usuomskschool10",
+        "email": "school10@bou.omskportal.ru",
+        "name": "Школа №10",
+        "name:en": "СОШ №10",
+        "opening_hours": "Mo-Fr 08:30-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 71 35 45",
+        "website": "http://ou10.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2211658,
+          54.9989712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/444538569",
+      "properties": {
+        "@id": "way/444538569",
+        "addr:housenumber": "44",
+        "addr:street": "Мельничная улица",
+        "amenity": "school",
+        "building": "school",
+        "building:levels": "4",
+        "check_date": "2024-05-11",
+        "name": "Школа №53",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3201601,
+          54.9290631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/446048277",
+      "properties": {
+        "@id": "way/446048277",
+        "amenity": "school",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6423598,
+          55.1151189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/448607470",
+      "properties": {
+        "@id": "way/448607470",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа № 126",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4560202,
+          54.8498599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/449819284",
+      "properties": {
+        "@id": "way/449819284",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №129",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2619991,
+          55.0339232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/449849688",
+      "properties": {
+        "@id": "way/449849688",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №142",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4178486,
+          54.9447192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/460444558",
+      "properties": {
+        "@id": "way/460444558",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №44",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3073227,
+          55.0424415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/474528137",
+      "properties": {
+        "@id": "way/474528137",
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "name": "Школа №34",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2565836,
+          54.9970394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/487900512",
+      "properties": {
+        "@id": "way/487900512",
+        "amenity": "school",
+        "barrier": "fence",
+        "check_date": "2024-05-16",
+        "name": "Школа №56",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4173236,
+          54.975944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/520521742",
+      "properties": {
+        "@id": "way/520521742",
+        "amenity": "school",
+        "barrier": "fence",
+        "education": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3466584,
+          55.2521852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/521149552",
+      "properties": {
+        "@id": "way/521149552",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №114",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3642953,
+          54.9058216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/522357787",
+      "properties": {
+        "@id": "way/522357787",
+        "addr:housenumber": "4А",
+        "addr:postcode": "644076",
+        "addr:street": "улица Василия Товстухо",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №45",
+        "opening_hours": "Mo-Sa 08:15-17:00",
+        "phone": "+7 381 257-68-52",
+        "website": "https://www.omschool45.narod.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4681872,
+          54.9760604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/523992045",
+      "properties": {
+        "@id": "way/523992045",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №36",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2383349,
+          54.9983231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/528302613",
+      "properties": {
+        "@id": "way/528302613",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа N82",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3025408,
+          55.0359574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/613446261",
+      "properties": {
+        "@id": "way/613446261",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №47",
+        "phone": "+7 3812 904585;+7 3812 904586;+7 3812 904587",
+        "website": "http://ou47.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2769232,
+          54.9851629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/641540629",
+      "properties": {
+        "@id": "way/641540629",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №95",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2208945,
+          55.0285199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/702245234",
+      "properties": {
+        "@id": "way/702245234",
+        "amenity": "school",
+        "barrier": "fence",
+        "fence_type": "metal_bars",
+        "name": "Станция юных натуралистов",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3032683,
+          54.9807817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/823919262",
+      "properties": {
+        "@id": "way/823919262",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Магистральная СОШ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.242413,
+          54.9295014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/860091221",
+      "properties": {
+        "@id": "way/860091221",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №123",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2658449,
+          55.0320627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/860097260",
+      "properties": {
+        "@id": "way/860097260",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2652404,
+          55.0330228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/864047309",
+      "properties": {
+        "@id": "way/864047309",
+        "amenity": "school",
+        "name": "Школа №80",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.283012,
+          55.0340515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/868814655",
+      "properties": {
+        "@id": "way/868814655",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №111",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1760987,
+          55.0550925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/959797723",
+      "properties": {
+        "@id": "way/959797723",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "sch96omsk@mail.ru",
+        "name": "Школа № 96",
+        "official_name": "Бюджетное общеобразовательное учреждение города Омска «Средняя общеобразовательная школа № 96»",
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "phone": "+7 3812 918700",
+        "website": "https://sh96-omsk-r52.gosweb.gosuslugi.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.424751,
+          55.0427306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/976571454",
+      "properties": {
+        "@id": "node/976571454",
+        "amenity": "school",
+        "name": "Гимназия №115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3800989,
+          54.9625686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/976571487",
+      "properties": {
+        "@id": "node/976571487",
+        "amenity": "school",
+        "name": "Гимназия №69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3829344,
+          54.9626582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/993080651",
+      "properties": {
+        "@id": "way/993080651",
+        "addr:housenumber": "1",
+        "addr:postcode": "644052",
+        "addr:street": "улица Арсеньева",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "www.mou093@mail.ru",
+        "name": "Школа №93",
+        "website": "http://ou93.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4079572,
+          55.0124474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1024481865",
+      "properties": {
+        "@id": "way/1024481865",
+        "addr:housenumber": "9",
+        "addr:street": "Школьная улица",
+        "amenity": "school",
+        "building": "school",
+        "name": "Школа №1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5444891,
+          55.2572043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1029222587",
+      "properties": {
+        "@id": "way/1029222587",
+        "amenity": "school",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4456165,
+          55.3836979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1060978694",
+      "properties": {
+        "@id": "way/1060978694",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Детская школа искусств №19",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2150079,
+          55.1723306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1080417058",
+      "properties": {
+        "@id": "node/1080417058",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6697135,
+          54.9712599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1096880038",
+      "properties": {
+        "@id": "way/1096880038",
+        "amenity": "school",
+        "barrier": "fence",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2141681,
+          55.1558141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1112119880",
+      "properties": {
+        "@id": "way/1112119880",
+        "amenity": "school",
+        "contact:vk": "public153344548",
+        "email": "school4@bou.omskportal.ru",
+        "grades": "1-11",
+        "name": "Школа №4",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-13:00",
+        "phone": "+7 3812 524432",
+        "website": "http://ou4.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3208185,
+          55.0469283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1115440871",
+      "properties": {
+        "@id": "node/1115440871",
+        "amenity": "school",
+        "name": "Школа 142 (филиал 3)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4151194,
+          54.9469416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1158937290",
+      "properties": {
+        "@id": "way/1158937290",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Гимназия №146",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4042197,
+          54.9875629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1175059323",
+      "properties": {
+        "@id": "way/1175059323",
+        "amenity": "school",
+        "name": "Школа №68",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3687967,
+          54.9221201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1216778699",
+      "properties": {
+        "@id": "way/1216778699",
+        "amenity": "school",
+        "name": "Школа №60",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.354941,
+          55.0181759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1217464120",
+      "properties": {
+        "@id": "way/1217464120",
+        "access": "permissive",
+        "amenity": "school",
+        "contact:email": "school66@bou.omskportal.ru",
+        "contact:housenumber": "22А",
+        "contact:ok": "https://ok.ru/litsey66om",
+        "contact:phone": "+7 381 223-93-11",
+        "contact:street": "улица Красный Путь",
+        "contact:vk": "https://vk.com/licey66_omsk",
+        "fee": "no",
+        "gender_segregated": "no",
+        "isced:level": "1;2;3",
+        "min_age": "6",
+        "name": "Лицей №66",
+        "official_name": "Бюджетное общеобразовательное учреждение города Омска «Лицей № 66»",
+        "official_short_type": "БОУ",
+        "official_status": "лицей",
+        "opening_hours": "Mo-Fr 08:00-18:30; Sa 08:00-15:00; Su off; PH off; SH off",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "provided_for:boy": "yes",
+        "provided_for:girl": "yes",
+        "start_date": "1937",
+        "website": "https://licey-66.gosuslugi.ru",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.358701,
+          54.997899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1220259742",
+      "properties": {
+        "@id": "way/1220259742",
+        "amenity": "school",
+        "contact:vk": "school18.life",
+        "email": "school18@bou.omskportal.ru",
+        "fee": "no",
+        "gender_segregated": "no",
+        "isced:level": "1;2;3",
+        "min_age": "6",
+        "name": "Школа №18",
+        "official_status": "школа",
+        "opening_hours": "Mo-Sa 08:00-15:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "phone": "+7 381 290-28-04",
+        "provided_for:boy": "yes",
+        "provided_for:girl": "yes",
+        "ref": "18",
+        "website": "http://ou18.omsk.obr55.ru",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3072111,
+          55.0237324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1222405384",
+      "properties": {
+        "@id": "way/1222405384",
+        "amenity": "school",
+        "name": "Гимназия №88",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.407696,
+          54.9578725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227107699",
+      "properties": {
+        "@id": "way/1227107699",
+        "addr:postcode": "644109",
+        "amenity": "school",
+        "name": "Школа №108",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4499218,
+          54.9105396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227109436",
+      "properties": {
+        "@id": "way/1227109436",
+        "amenity": "school",
+        "name": "Школа №100",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3662152,
+          54.918177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227115316",
+      "properties": {
+        "@id": "way/1227115316",
+        "amenity": "school",
+        "name": "Школа №110",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4564443,
+          54.9234449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1227117010",
+      "properties": {
+        "@id": "way/1227117010",
+        "amenity": "school",
+        "name": "Школа №71",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.441493,
+          54.9171298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229845212",
+      "properties": {
+        "@id": "way/1229845212",
+        "amenity": "school",
+        "name": "Школа №131",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5041212,
+          55.0302743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229855681",
+      "properties": {
+        "@id": "way/1229855681",
+        "addr:housenumber": "5А",
+        "addr:street": "улица Фугенфирова",
+        "amenity": "school",
+        "education": "school",
+        "name": "Школа № 49",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2673842,
+          54.9958257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1229855682",
+      "properties": {
+        "@id": "way/1229855682",
+        "addr:housenumber": "11Б",
+        "addr:postcode": "644081",
+        "addr:street": "улица Фугенфирова",
+        "amenity": "school",
+        "contact:vk": "school28omsk",
+        "education": "school",
+        "email": "school28@bou.omskportal.ru",
+        "name": "Школа № 28",
+        "name:ru": "Школа № 28",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 78 23 34;+7 3812 73 38 03",
+        "website": "http://ou28.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2692153,
+          54.9961162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230076001",
+      "properties": {
+        "@id": "way/1230076001",
+        "amenity": "school",
+        "name": "Школа №120",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.322392,
+          55.0409851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230089446",
+      "properties": {
+        "@id": "way/1230089446",
+        "amenity": "school",
+        "name": "Омский кадетский военный корпус",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3463203,
+          54.9583808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230303510",
+      "properties": {
+        "@id": "way/1230303510",
+        "amenity": "school",
+        "name": "Школа №148",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4859463,
+          54.8874682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1230547291",
+      "properties": {
+        "@id": "way/1230547291",
+        "amenity": "school",
+        "name": "Гимназия №9",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3345572,
+          55.0341966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1231644390",
+      "properties": {
+        "@id": "way/1231644390",
+        "amenity": "school",
+        "email": "school13@bou.omskportal.ru",
+        "name": "Школа №13",
+        "name:ru": "Школа №13",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 78 45 88",
+        "website": "http://ou13.omsk.obr55.ru",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3994829,
+          55.0022045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238003814",
+      "properties": {
+        "@id": "way/1238003814",
+        "amenity": "school",
+        "name": "Школа №81",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4731649,
+          55.0355263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1238003815",
+      "properties": {
+        "@id": "way/1238003815",
+        "amenity": "school",
+        "name": "Школа №81",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4731185,
+          55.0337639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1292667272",
+      "properties": {
+        "@id": "way/1292667272",
+        "amenity": "school",
+        "barrier": "fence",
+        "name": "Школа №2",
+        "official_name": "Лузинская средняя общеобразовательная школа №2 Омского Муниципального района Омской области",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1849891,
+          54.9595485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1307182681",
+      "properties": {
+        "@id": "way/1307182681",
+        "amenity": "school",
+        "contact:vk": "club2175554",
+        "email": "mousoch106@mail.ru",
+        "grades": "1-11",
+        "name": "Школа №106",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 08:00-14:00",
+        "phone": "+7 3812 52 40 08",
+        "website": "http://ou106.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3224343,
+          55.0463361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329301396",
+      "properties": {
+        "@id": "way/1329301396",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3069941,
+          54.9165742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1329308076",
+      "properties": {
+        "@id": "way/1329308076",
+        "addr:postcode": "644036",
+        "amenity": "school",
+        "barrier": "fence",
+        "email": "school35@bou.omskportal.ru",
+        "name": "Начальная школа № 35",
+        "official_name": "Бюджетное общеобразовательное учреждение города Омска «Начальная общеобразовательная школа № 35»",
+        "opening_hours": "Mo-Fr 08:00-17:30",
+        "ownership": "municipal",
+        "phone": "+7 381 2550028",
+        "short_name": "БОУ г.Омска «Начальная общеобразовательная школа № 35»",
+        "website": "https://sh35omsk.gosuslugi.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3132992,
+          54.91362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1339539988",
+      "properties": {
+        "@id": "way/1339539988",
+        "amenity": "school",
+        "contact:vk": "bou8omsk",
+        "email": "school8@bou.omskportal.ru",
+        "name": "Школа №8",
+        "opening_hours": "Mo-Sa 08:30-17:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "operator:type": "public",
+        "phone": "+7 3812 656544",
+        "website": "http://ou8.omsk.obr55.ru/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3027671,
+          55.0445582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1357575874",
+      "properties": {
+        "@id": "way/1357575874",
+        "amenity": "school",
+        "name": "Школа №70",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5512634,
+          54.9630157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1365502440",
+      "properties": {
+        "@id": "way/1365502440",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4509078,
+          54.9670931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1448249556",
+      "properties": {
+        "@id": "way/1448249556",
+        "addr:housenumber": "13В",
+        "addr:street": "улица Крупской",
+        "amenity": "school",
+        "education": "school",
+        "name": "Технологический лицей 'Авангард'",
+        "source:addr": "ЕГРН",
+        "start_date": "2024",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3053742,
+          54.9975375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1454967899",
+      "properties": {
+        "@id": "way/1454967899",
+        "addr:housenumber": "90",
+        "addr:postcode": "644052",
+        "addr:street": "27-я Северная улица",
+        "amenity": "school",
+        "email": "school17@bou.omskportal.ru",
+        "name": "Школа №17",
+        "name:ru": "Школа №17",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 61 54 81",
+        "short_name": "МОУ СОШ №17",
+        "website": "http://школа17.омск-обр.рф",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.401244,
+          55.0248964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1454968030",
+      "properties": {
+        "@id": "way/1454968030",
+        "addr:housenumber": "5",
+        "addr:postcode": "644086",
+        "addr:street": "21-я Амурская улица",
+        "amenity": "school",
+        "contact:vk": "club7133686",
+        "email": "school14@bou.omskportal.ru",
+        "name": "Школа №14",
+        "name:en": "СОШ №14",
+        "opening_hours": "Mo-Fr 08:30-17:30; Sa 08:30-15:00",
+        "operator": "Департамент образования Администрации города Омска",
+        "phone": "+7 3812 61 64 92",
+        "website": "http://ou14.omsk.obr55.ru",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4072536,
+          55.025999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1500992942",
+      "properties": {
+        "@id": "way/1500992942",
+        "amenity": "school",
+        "education": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.545891,
+          54.9228013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1530670870",
+      "properties": {
+        "@id": "way/1530670870",
+        "addr:housenumber": "3",
+        "addr:street": "переулок Зеленый",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6340189,
+          55.4178346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1545823175",
+      "properties": {
+        "@id": "way/1545823175",
+        "amenity": "school",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4717399,
+          55.0922516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2396086726",
+      "properties": {
+        "@id": "node/2396086726",
+        "amenity": "school",
+        "name": "Школа №60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3545354,
+          55.018926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3444887135",
+      "properties": {
+        "@id": "node/3444887135",
+        "amenity": "school",
+        "name": "Поповкинская основная общеобразовательная школа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1007526,
+          54.8613364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4330787790",
+      "properties": {
+        "@id": "node/4330787790",
+        "addr:street": "Школьная улица",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.128479,
+          55.1164894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4549310098",
+      "properties": {
+        "@id": "node/4549310098",
+        "amenity": "school",
+        "name": "Лицей",
+        "name:ru": "Лицей"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3398866,
+          55.0030851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5179563252",
+      "properties": {
+        "@id": "node/5179563252",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3464888,
+          55.1036434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7416860346",
+      "properties": {
+        "@id": "node/7416860346",
+        "amenity": "school",
+        "name": "Красноярская СОШ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0930468,
+          55.3291139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/9822418538",
+      "properties": {
+        "@id": "node/9822418538",
+        "amenity": "school",
+        "name": "Авторская экспериментальная школа"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.301014,
+          54.9783415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11140239706",
+      "properties": {
+        "@id": "node/11140239706",
+        "amenity": "school",
+        "contact:vk": "club8295728",
+        "email": "dshi01@yandex.ru",
+        "name": "ДШИ №1 имени Ю.И.Янкелевича",
+        "name:ru": "Детская школа искусств №1 имени Ю.И.Янкелевича",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-17:00",
+        "phone": "+7 3812 53 46 38;+ 73812 53 25 21;+7 3812 53 44 18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3933011,
+          54.9742054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11350324969",
+      "properties": {
+        "@id": "node/11350324969",
+        "amenity": "school",
+        "name": "Детская школа искусств № 7",
+        "phone": "+7 3812 61 13 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4133808,
+          55.0305149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12620064021",
+      "properties": {
+        "@id": "node/12620064021",
+        "amenity": "school",
+        "contact:email": "harmony.omsk@yandex.ru",
+        "contact:phone": "+7 381 2381110",
+        "contact:website": "https://garmoniyaschool.taplink.ws",
+        "name": "Гармония",
+        "opening_hours": "Mo-Fr 08:00-18:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3504128,
+          54.9936101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13091973801",
+      "properties": {
+        "@id": "node/13091973801",
+        "addr:housenumber": "2А",
+        "addr:street": "Кемеровская улица",
+        "amenity": "school",
+        "contact:vk": "tuki_tuki_omsk",
+        "name": "Туки-туки",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+7 960 9893326",
+        "website": "https://tuki-tuki-omsk.ru/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3461763,
+          54.9969554
+        ]
+      }
+    }
+  ]
+}
